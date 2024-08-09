@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ElleLavigne
-- 👀 I'm a Systems Analysis and Development student. 
-- 🌱 I’m currently learning into HTML, CSS, JavaScript and Ract. I have Figma skills, designer creation.
-- 💞️ I'm looking to collaborate with Front-end web development.
-- 📫 How to reach me ... izaelleavrillavigne@gmail.com (86) 9 9824-4011
+Hello! I am a front-end developer specializing in JavaScript and React, with a strong background in UI/UX Design. I am committed to creating user interfaces that not only meet functional requirements but also provide visually appealing and intuitive experiences. I continuously seek to enhance my skills and contribute to innovative projects that make a difference. I am always open to new collaboration opportunities.
+
 
 <!---
 ElleLavigne/ElleLavigne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
